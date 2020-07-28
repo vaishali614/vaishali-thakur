@@ -1,0 +1,69 @@
+.about {
+    background: #2B2B2B;
+    padding-top: 96px;
+    padding-bottom: 66px;
+    overflow: hidden;
+}
+ 
+.about a, .about a:visited  { color: #fff; }
+.about a:hover, .about a:focus { color: #11ABB0; }
+ 
+.about h2 {
+    font: 25px/30px 'opensans-bold', sans-serif;
+    color: #fff;
+    margin-bottom: 12px;
+}
+.about p {
+    line-height: 30px;
+    color: #7A7A7A;
+}
+.about .profilePic {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+}
+
+.education h3 {
+    font: 20px/30px 'opensans-bold', sans-serif;
+    color: #fff;
+}
+
+.eduDetails {
+    overflow: hidden;
+}
+
+.info {
+    font: 16px/24px 'librebaskerville-italic', serif;
+    color: #6E7881;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.info span {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.date {
+    font: 15px/24px 'opensans-regular', sans-serif;
+    margin-top: 6px;
+}
+
+@media only screen and (max-width: 900px){
+    .about .profilePic {
+        width: 200px;
+        height: 200px;
+    }
+    .about .contactDetails { width: 50%; }
+    .about .download { width: 50%; }
+}
+
+@media only screen and (max-width: 767px){
+    .about .profilePic { 
+        width: 200px;
+        height: 200px;
+        margin-bottom: 20px;
+    }
+}
+
