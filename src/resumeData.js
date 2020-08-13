@@ -61,14 +61,21 @@ let resumeData = {
         "specialization":"Data Structures and Algorithms",
         "MonthOfLeaving":"April",
         "YearOfLeaving":"2020",
-        "Achievements":"Teaching Assistant for Data Structures and Algorithms in C++ to a class of about 50 students"
+        "Achievements":"Mentored over 50+ students in Inception - for Data Structures and Algorithms course in both offline and online mode."
       },
       {
         "CompanyName":"cppsecrets.com",
         "specialization":"Software Developer Intern",
         "MonthOfLeaving":"August",
         "YearOfLeaving":"2019",
-        "Achievements":"Re-designed and developed a web platform for developers where they can publish articles on C++, Python and many more."
+        "Achievements":"Re-designed and developed a dynamic and interactive web portal that provides a platform for developers to showcase their skills by publishing articles on C++, Python and many more."
+      },
+      {
+        "CompanyName":"The Sparks Foundation",
+        "specialization":"Intern - Graduate Rotational Internship Program",
+        "MonthOfLeaving":"July",
+        "YearOfLeaving":"2019",
+        "Achievements":"RestAPI showing all CRUD (Create, Read, Update and Delete) operations."
       }
     ],
     "skillsDescription":"Coding enthusiast and a ReactJS developer",
