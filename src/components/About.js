@@ -47,7 +47,7 @@ class About extends Component {
          <Row>
            <Col md lg = {4}></Col>
            <Col md>
-            <a href = "https://drive.google.com/file/d/1ixMLJzkIGARb5XmE2gfen9ha6aJCYgXG/view?usp=sharing" download>
+            <a href = "https://drive.google.com/file/d/1vstO6XBuBRpP_CY_XjCyqFHfs4vnc53p/view?usp=sharing" download>
                 <Button variant = "success">
                   Download Resume
                 </Button>
