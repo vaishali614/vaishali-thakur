@@ -44,7 +44,7 @@ h1 {
 .card {
     width: min-content;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
-    padding: 10px;
+    padding: 8px;
     text-align: center;
     background-color: #f1f1f1;
     margin: 10px 5px;

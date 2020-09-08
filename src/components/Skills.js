@@ -39,20 +39,28 @@ class Skills extends Component {
                     <em> REACTJS </em>
                   </li>
                   <li>
+                    <span className = {styles.barExpand} style = {{paddingRight: "40%"}}> </span>
+                    <em> ExpressJs </em>
+                  </li>
+                  <li>
+                    <span className = {styles.barExpand} style = {{paddingRight: "40%"}}> </span>
+                    <em> NodeJs </em>
+                  </li>
+                  <li>
+                    <span className = {styles.barExpand} style = {{paddingRight: "40%"}}> </span>
+                    <em> MongoDB </em>
+                  </li>
+                  <li>
+                    <span className = {styles.barExpand} style = {{paddingRight: "50%"}}> </span>
+                    <em> MYSQL </em>
+                  </li>
+                  <li>
                     <span className = {styles.barExpand} style = {{paddingRight: "80%"}}> </span>
                     <em> ADOBE PHOTOSHOP </em>
                   </li>
                   <li>
                     <span className = {styles.barExpand} style = {{paddingRight: "75%"}}> </span>
                     <em> ADOBE XD </em>
-                  </li>
-                  <li>
-                    <span className = {styles.barExpand} style = {{paddingRight: "40%"}}> </span>
-                    <em> PYTHON </em>
-                  </li>
-                  <li>
-                    <span className = {styles.barExpand} style = {{paddingRight: "50%"}}> </span>
-                    <em> MYSQL </em>
                   </li>
                 </ul>
               </div>

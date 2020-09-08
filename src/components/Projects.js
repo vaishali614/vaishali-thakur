@@ -8,7 +8,7 @@ class Projects extends Component {
     return (
       <Jumbotron id = "projects" style = {{margin: "0px"}}>
         <Container>
-          <h1> <span> Check Out Some of My Works </span> </h1>
+          <h1> <span> Projects </span> </h1>
           <Row className = {styles.row}>
               {
                 resumeData.portfolio && resumeData.portfolio.map((item)=>{
@@ -16,7 +16,6 @@ class Projects extends Component {
                     <Card 
                       style={{ width: '35rem'}} 
                       className = {styles.card}
-                      border = "secondary"
                     >
                       <a href = {item.projectLink}>
                         <Card.Img 
