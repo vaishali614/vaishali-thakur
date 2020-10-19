@@ -113,10 +113,10 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"JobHunt",
-        "description":"Its a web application for job seekers and employers to search and view latest job opportunities at different locations using GitHub Jobs API.",
-        "imgurl":"JobHunt.PNG",
-        "projectLink":"https://github.com/vaishali614/JobHunt"
+        "name":"Opportunity Calendar",
+        "description":"Opportunity Calendar is the one-stop place to refer latest opportunities in tech-space like jobs, internships, hackathons, tech-conferences, scholarships etc.",
+        "imgurl":"OppCal.PNG",
+        "projectLink":"https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend"
       },
       {
         "name":"Girl Code It Website",
